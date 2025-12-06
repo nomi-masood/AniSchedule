@@ -1,0 +1,5 @@
+{
+  "name": "AniSchedule",
+  "description": "A comprehensive anime discovery platform featuring daily release schedules, upcoming seasons, and AI-powered insights using the Jikan API and Gemini.",
+  "requestFramePermissions": []
+}
